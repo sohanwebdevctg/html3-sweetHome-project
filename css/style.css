@@ -1,0 +1,10 @@
+html{
+  scroll-behavior: smooth;
+}
+
+#bannerImg{
+  background-image: url('/img/banner/banner.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
