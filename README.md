@@ -10,5 +10,5 @@
   * ### css animation
   * ### box icons
 
-* ### -> This project is hosted live on Netlify :()
+* ### -> This project is hosted live on Netlify :(https://sensational-bonbon-ace59c.netlify.app)
 * ### -> The source code for this project will be kept in Git hub :-(https://github.com/sohanwebdevctg/html3-sweetHome-project)
